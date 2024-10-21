@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Ejercicio3MyA\bin\Debug\Ejercicio3MyA.exe.config
+C:\Users\USER\source\repos\Ejercicio3MyA\bin\Debug\Ejercicio3MyA.exe
+C:\Users\USER\source\repos\Ejercicio3MyA\bin\Debug\Ejercicio3MyA.pdb
+C:\Users\USER\source\repos\Ejercicio3MyA\obj\Debug\Ejercicio3MyA.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Ejercicio3MyA\obj\Debug\Ejercicio3MyA.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ejercicio3MyA\obj\Debug\Ejercicio3MyA.exe
+C:\Users\USER\source\repos\Ejercicio3MyA\obj\Debug\Ejercicio3MyA.pdb
