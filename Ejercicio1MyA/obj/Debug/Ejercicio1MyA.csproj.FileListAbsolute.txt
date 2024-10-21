@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Ejercicio1MyA\bin\Debug\Ejercicio1MyA.exe.config
+C:\Users\USER\source\repos\Ejercicio1MyA\bin\Debug\Ejercicio1MyA.exe
+C:\Users\USER\source\repos\Ejercicio1MyA\bin\Debug\Ejercicio1MyA.pdb
+C:\Users\USER\source\repos\Ejercicio1MyA\obj\Debug\Ejercicio1MyA.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Ejercicio1MyA\obj\Debug\Ejercicio1MyA.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ejercicio1MyA\obj\Debug\Ejercicio1MyA.exe
+C:\Users\USER\source\repos\Ejercicio1MyA\obj\Debug\Ejercicio1MyA.pdb
