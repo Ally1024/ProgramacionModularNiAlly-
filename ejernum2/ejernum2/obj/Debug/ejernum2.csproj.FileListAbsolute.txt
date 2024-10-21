@@ -1,0 +1,7 @@
+C:\Users\genes\source\repos\ejernum2\ejernum2\bin\Debug\ejernum2.exe.config
+C:\Users\genes\source\repos\ejernum2\ejernum2\bin\Debug\ejernum2.exe
+C:\Users\genes\source\repos\ejernum2\ejernum2\bin\Debug\ejernum2.pdb
+C:\Users\genes\source\repos\ejernum2\ejernum2\obj\Debug\ejernum2.csproj.AssemblyReference.cache
+C:\Users\genes\source\repos\ejernum2\ejernum2\obj\Debug\ejernum2.csproj.CoreCompileInputs.cache
+C:\Users\genes\source\repos\ejernum2\ejernum2\obj\Debug\ejernum2.exe
+C:\Users\genes\source\repos\ejernum2\ejernum2\obj\Debug\ejernum2.pdb
